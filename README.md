@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnjaliLalwaniGit
 - 👀 I’m interested in ...software engineering
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...java projects
+- 🌱 I’m currently learning ...React
+- 💞️ I’m looking to collaborate on ...java/microservices/javasrcipt/react projects
 - 📫 How to reach me ...anjali.s.lalwani@gmail.com
 
 <!---

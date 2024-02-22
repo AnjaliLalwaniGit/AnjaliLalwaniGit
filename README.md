@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnjaliLalwaniGit
+- 👋 Hi, I’m Anjali Lalwani!
 - 👀 I’m interested in ...software engineering
 - 📫 How to reach me ...anjali.s.lalwani@gmail.com
 
